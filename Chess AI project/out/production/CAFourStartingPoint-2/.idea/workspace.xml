@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8b16fa0-0e41-4532-b4c7-d24e30367f56" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1T9EC7d0bl7HCqYpbNW6ntEg2t9" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web API Dev/BankApp/webservices-bankapp" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChessProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChessProject" />
+      <module name="CAFourStartingPoint-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChessProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8b16fa0-0e41-4532-b4c7-d24e30367f56" name="Default Changelist" comment="" />
+      <created>1572863780470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572863780470</updated>
+      <workItem from="1572863781987" duration="20654000" />
+      <workItem from="1573030786570" duration="2145000" />
+      <workItem from="1573060299938" duration="212000" />
+      <workItem from="1573209853757" duration="790000" />
+      <workItem from="1573223811318" duration="3076000" />
+      <workItem from="1573834509799" duration="11955000" />
+      <workItem from="1574071929401" duration="14213000" />
+      <workItem from="1574089238909" duration="2038000" />
+      <workItem from="1574091403732" duration="174000" />
+      <workItem from="1574766584494" duration="683000" />
+      <workItem from="1574864328027" duration="238000" />
+      <workItem from="1575283394586" duration="20414000" />
+      <workItem from="1575450922512" duration="4164000" />
+      <workItem from="1575468626738" duration="7165000" />
+      <workItem from="1575535381304" duration="13950000" />
+      <workItem from="1575633250002" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ChessProject.java</url>
+          <line>2433</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ChessProject.java</url>
+          <line>1400</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s1" />
+        <watch expression="chessPiece.defaultIcon" />
+        <watch expression="chessPiece.defaultIcon" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
